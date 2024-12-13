@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "tes",
+      "email": "tes@mail.com",
+      "full_name": "tes123",
+      "password": "123456",
+      "id": "8df1"
+    },
+    {
+      "id": "b839",
+      "username": "maulana",
+      "password": "123456",
+      "email": "maulana@mail.com",
+      "full_name": "maulana Akbar"
+    }
+  ]
+}
